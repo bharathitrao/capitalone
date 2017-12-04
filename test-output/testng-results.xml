@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36428" started-at="2017-12-04T00:44:26Z" finished-at="2017-12-04T00:45:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36428" started-at="2017-12-04T00:44:26Z" finished-at="2017-12-04T00:45:03Z">
+      <class name="autopackage.LoanCalculator">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:autopackage.LoanCalculator@4dfa3a9d]" name="setUp" is-config="true" duration-ms="10567" started-at="2017-12-03T19:44:26Z" finished-at="2017-12-03T19:44:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCalculation()[pri:0, instance:autopackage.LoanCalculator@4dfa3a9d]" name="testCalculation" duration-ms="17035" started-at="2017-12-03T19:44:37Z" finished-at="2017-12-03T19:44:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCalculation -->
+        <test-method status="PASS" signature="testEstimatedAPRError()[pri:0, instance:autopackage.LoanCalculator@4dfa3a9d]" name="testEstimatedAPRError" duration-ms="4964" started-at="2017-12-03T19:44:54Z" finished-at="2017-12-03T19:44:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEstimatedAPRError -->
+        <test-method status="PASS" signature="testLoanAmountError()[pri:0, instance:autopackage.LoanCalculator@4dfa3a9d]" name="testLoanAmountError" duration-ms="3804" started-at="2017-12-03T19:44:59Z" finished-at="2017-12-03T19:45:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoanAmountError -->
+        <test-method status="PASS" signature="cleanup()[pri:0, instance:autopackage.LoanCalculator@4dfa3a9d]" name="cleanup" is-config="true" duration-ms="0" started-at="2017-12-03T19:45:03Z" finished-at="2017-12-03T19:45:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+      </class> <!-- autopackage.LoanCalculator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
