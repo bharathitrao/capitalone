@@ -13,6 +13,11 @@ import test.capitalone.framework.CapitalOneTestSuite;
 
 public class LoanCalculator extends CapitalOneTestSuite {
 	
+	/**
+	 * Test case1: Test calculation from excel data.
+	 * 
+	 * @throws Exception
+	 */
 	@Test
 	public void testCalculation() throws Exception {
 		
